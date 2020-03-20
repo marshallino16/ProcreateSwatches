@@ -1,0 +1,4 @@
+requests
+selenium
+colour == 0.1.5
+python_slugify == 1.2.6
