@@ -1,3 +1,7 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+
+
 # ProcreateSwatches
 
 ![ColorHunt](https://user-images.githubusercontent.com/1506323/77180525-5a59e400-6aca-11ea-801f-054df7e9799e.png)
